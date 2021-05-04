@@ -1,0 +1,117 @@
+Daily hours worked by Department by Employee
+
+Dept EmpID     Date     Hours
+
+ IT  D4772   1/02/2011   8.25
+ IT  D4772   1/03/2011   7.00
+ IT  D4772   1/05/2011   9.25
+ IT  D4772   1/06/2011   9.00
+ IT  D4772   1/08/2011   7.25
+Employee total          40.75
+
+ IT  F9642   1/04/2011   8.25
+ IT  F9642   1/06/2011   7.25
+ IT  F9642   1/07/2011   5.25
+ IT  F9642   1/08/2011   8.00
+Employee total          28.75
+
+ IT  V1001   1/03/2011   5.25
+ IT  V1001   1/04/2011   8.50
+ IT  V1001   1/05/2011   6.75
+ IT  V1001   1/06/2011   6.75
+ IT  V1001   1/07/2011   8.00
+ IT  V1001   1/08/2011   6.00
+Employee total          41.25
+
+Department total       110.75
+
+MGT  A0010   1/02/2011   6.50
+MGT  A0010   1/03/2011   8.25
+MGT  A0010   1/04/2011   9.25
+MGT  A0010   1/05/2011   9.75
+MGT  A0010   1/06/2011   5.50
+MGT  A0010   1/07/2011   8.75
+MGT  A0010   1/08/2011   8.75
+Employee total          56.75
+
+MGT  S0812   1/04/2011   5.25
+MGT  S0812   1/05/2011   7.75
+MGT  S0812   1/06/2011   7.25
+MGT  S0812   1/07/2011   6.00
+MGT  S0812   1/08/2011   9.50
+Employee total          35.75
+
+Department total        92.50
+
+MKT  H6554   1/02/2011   9.25
+MKT  H6554   1/03/2011   8.00
+MKT  H6554   1/04/2011   5.75
+MKT  H6554   1/05/2011   8.75
+MKT  H6554   1/06/2011   8.50
+MKT  H6554   1/08/2011   6.00
+Employee total          46.25
+
+Department total        46.25
+
+MNT  E5109   1/02/2011   8.75
+MNT  E5109   1/03/2011   5.50
+MNT  E5109   1/04/2011   6.00
+MNT  E5109   1/06/2011   5.00
+MNT  E5109   1/08/2011   6.50
+Employee total          31.75
+
+Department total        31.75
+
+MSC  E4100   1/03/2011   5.75
+MSC  E4100   1/04/2011   8.75
+MSC  E4100   1/05/2011   7.25
+MSC  E4100   1/07/2011   6.50
+MSC  E4100   1/08/2011   8.75
+Employee total          37.00
+
+Department total        37.00
+
+PRD  A0132   1/04/2011   9.00
+PRD  A0132   1/05/2011   8.00
+PRD  A0132   1/06/2011   8.75
+PRD  A0132   1/07/2011   9.00
+PRD  A0132   1/08/2011   5.00
+Employee total          39.75
+
+PRD  E1231   1/02/2011   6.75
+PRD  E1231   1/03/2011   8.25
+PRD  E1231   1/04/2011   6.75
+PRD  E1231   1/06/2011   8.00
+PRD  E1231   1/07/2011   5.50
+PRD  E1231   1/08/2011   7.25
+Employee total          42.50
+
+PRD  E1250   1/02/2011   9.75
+PRD  E1250   1/03/2011   7.75
+PRD  E1250   1/04/2011   7.75
+PRD  E1250   1/05/2011   7.50
+Employee total          32.75
+
+Department total       115.00
+
+SLS  L1776   1/02/2011   9.00
+SLS  L1776   1/03/2011   7.75
+SLS  L1776   1/04/2011   6.75
+SLS  L1776   1/06/2011   5.50
+SLS  L1776   1/08/2011   8.75
+Employee total          37.75
+
+SLS  M5205   1/02/2011   7.00
+SLS  M5205   1/03/2011   5.00
+SLS  M5205   1/04/2011   7.75
+SLS  M5205   1/05/2011   6.00
+SLS  M5205   1/06/2011   7.75
+SLS  M5205   1/07/2011   5.25
+SLS  M5205   1/08/2011   8.25
+Employee total          47.00
+
+Department total        84.75
+
+Total hours worked     518.00
+
+70 records processed
